@@ -4,7 +4,6 @@
   "main": "lib/index.js",
   "description": "Lightweight update server for Electron apps",
   "scripts": {
-    "dev": "npx vercel dev",
     "test": "xo && jest"
   },
   "license": "MIT",
@@ -50,5 +49,6 @@
     "lint-staged": "7.0.0",
     "prettier": "1.10.2",
     "xo": "0.20.3"
-  }
+  },
+  "packageManager": "pnpm@8.12.0"
 }
