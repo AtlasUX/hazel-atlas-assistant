@@ -7,7 +7,7 @@
     "test": "xo && jest"
   },
   "license": "MIT",
-  "repository": "Deamoner/hazel",
+  "repository": "AtlasUX/hazel-atlas-assistant",
   "xo": {
     "extends": [
       "prettier"
