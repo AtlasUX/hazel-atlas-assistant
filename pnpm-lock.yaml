@@ -39,8 +39,8 @@ dependencies:
     specifier: 1.3.2
     version: 1.3.2
   semver:
-    specifier: 5.5.0
-    version: 5.5.0
+    specifier: 5.7.2
+    version: 5.7.2
   stream-to-string:
     specifier: 1.1.0
     version: 1.1.0
